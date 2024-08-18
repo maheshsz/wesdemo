@@ -35,7 +35,7 @@
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
-			<version>2.2.224</version><!--$NO-MVN-MAN-VER$-->
+			<version>2.3.230</version><!--$NO-MVN-MAN-VER$-->
 			<scope>runtime</scope>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/ch.qos.logback/logback-classic -->
